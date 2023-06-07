@@ -2,13 +2,13 @@
   "name": "portfolio",
   "version": "3.0.0",
   "description": "Pierre Saumont Web Developer",
-  "homepage": "https://ropie1981.github.io/PortFolio/frontend",
+  "homepage": "https://ropie1981.github.io/PortFolio/",
   "bugs": {
     "url": "https://github.com/Ropie1981/PortFolio.git"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ropie1981/PortFolio"
+    "url": "git+https://github.com/Ropie1981/PortFolio.git"
   },
   "config": {
     "cli": "npm"
