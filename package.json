@@ -1,14 +1,14 @@
 {
-  "name": "template-fullstack",
+  "name": "portfolio",
   "version": "3.0.0",
-  "description": "project template for the React-Express-MySQL cursus in Wild Code School",
-  "homepage": "https://github.com/wildcodeschool/js-template-fullstack#readme",
+  "description": "Pierre Saumont Web Developer",
+  "homepage": "https://ropie1981.github.io/PortFolio/",
   "bugs": {
-    "url": "https://github.com/wildcodeschool/js-template-fullstack/issues"
+    "url": "https://github.com/Ropie1981/PortFolio"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wildcodeschool/js-template-fullstack.git"
+    "url": "git+https://github.com/Ropie1981/PortFolio"
   },
   "config": {
     "cli": "npm"
