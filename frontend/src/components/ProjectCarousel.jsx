@@ -58,13 +58,13 @@ export default function ProjectCarousel() {
       indicatorIconButtonProps={{
         style: {
           padding: "10px",
-          color: "black",
           margin: "1rem",
         },
       }}
       activeIndicatorIconButtonProps={{
         style: {
           padding: "8px",
+          color: "black",
           backgroundColor: "lightgrey",
         },
       }}
