@@ -27,7 +27,6 @@ export default function Project({ project }) {
           padding: "1rem",
           width: "100%",
           height: "auto",
-          maxWidth: "100%",
         }}
       />
 

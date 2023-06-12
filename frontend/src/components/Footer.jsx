@@ -27,10 +27,13 @@ export default function Footer() {
           justifyContent: "center",
         }}
       >
-        <Link href="https://github.com/Ropie1981">
+        <Link href="https://github.com/Ropie1981" target="_blank">
           <GitHubIcon fontSize="large" sx={{ mx: 1 }} />
         </Link>
-        <Link href="https://www.linkedin.com/in/pierre-saumont-87bba5182/">
+        <Link
+          href="https://www.linkedin.com/in/pierre-saumont-87bba5182/"
+          target="_blank"
+        >
           <LinkedInIcon fontSize="large" sx={{ mx: 1 }} />
         </Link>
       </Box>

@@ -54,6 +54,7 @@ export default function ProjectCarousel() {
     <Carousel
       interval="5000"
       swipe="true"
+      sx={{ height: "100vh" }}
       indicatorIconButtonProps={{
         style: {
           padding: "10px",
